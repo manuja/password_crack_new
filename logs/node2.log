@@ -1,0 +1,642 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:49:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:49:46] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:49:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:49:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:49:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:49:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:49:57] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:49:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:03] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:08] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:08] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:18] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:18] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:23] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:50:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:51:05] "POST /announce_found HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:52:23] "POST /announce_found HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:54:18] "POST /announce_found HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 12:56:13] "POST /announce_found HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:16:51] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:16:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:16:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:16:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:16:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:16:54] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:14] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:14] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:24] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:17:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:18:26] "POST /announce_found HTTP/1.1" 200 -
+ERROR:websockets.server:connection handler failed
+Traceback (most recent call last):
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/websockets/legacy/server.py", line 240, in handler
+    await self.ws_handler(self)
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/websockets/legacy/server.py", line 1186, in _ws_handler
+    return await cast(
+  File "/Projects/password_crack/test2.py", line 135, in handler
+    await websocket.send(f"{reply}")
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/websockets/legacy/protocol.py", line 647, in send
+    await self.write_frame(True, opcode, data)
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/websockets/legacy/protocol.py", line 1205, in write_frame
+    await self.drain()
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/websockets/legacy/protocol.py", line 1194, in drain
+    await self.ensure_open()
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/websockets/legacy/protocol.py", line 935, in ensure_open
+    raise self.connection_closed_exc()
+websockets.exceptions.ConnectionClosedError: no close frame received or sent
+INFO:websockets.server:connection closed
+INFO:websockets.server:connection open
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 17:20:08] "POST /announce_found HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:32] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:33] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:33] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:52] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:52] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:20:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:21:02] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:21:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:21:22] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:22:04] "POST /announce_found HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [20/May/2023 18:24:02] "POST /announce_found HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:18] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:19] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:20] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+ERROR:test2:Exception on /startserver [GET]
+Traceback (most recent call last):
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/flask/app.py", line 2447, in wsgi_app
+    response = self.full_dispatch_request()
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1952, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1821, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/flask/_compat.py", line 39, in reraise
+    raise value
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1950, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/flask/app.py", line 1936, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "/Projects/password_crack/test2.py", line 149, in startserver2
+    return asyncio.run(testa())
+  File "/home/atl/anaconda3/lib/python3.9/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/home/atl/anaconda3/lib/python3.9/asyncio/base_events.py", line 647, in run_until_complete
+    return future.result()
+  File "/Projects/password_crack/test2.py", line 141, in testa
+    async with websockets.serve(handler, "localhost", 8002):
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/websockets/legacy/server.py", line 1109, in __aenter__
+    return await self
+  File "/home/atl/anaconda3/lib/python3.9/site-packages/websockets/legacy/server.py", line 1127, in __await_impl__
+    server = await self._create_server()
+  File "/home/atl/anaconda3/lib/python3.9/asyncio/base_events.py", line 1506, in create_server
+    raise OSError(err.errno, 'error while attempting '
+OSError: [Errno 98] error while attempting to bind on address ('127.0.0.1', 8002): address already in use
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:21] "[35m[1mGET /startserver HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:22] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:22] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:22] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:22] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:31] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:32] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:32] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:32] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:32] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:39] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:39] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:49] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:49] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:27:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:28:09] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:30:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:30:57] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:30:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:30:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:30:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:10] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:17] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:18] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:18] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:18] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:19] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:19] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:29] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:31:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:34:46] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:34:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:34:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:34:50] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:34:51] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:34:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:34:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:06] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:17] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:35:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:09] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:10] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:12] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:13] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:22] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:27] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:35] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:35] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:45] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:45] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:39:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:40:05] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:40:57] "POST /announce_found HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:48:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:48:41] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:48:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:48:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:48:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:48:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:48:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:48:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:01] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:04] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:04] "POST /proxy HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:14] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:14] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:49:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:09] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:10] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:11] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:12] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:13] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:20] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:23] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:39] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:51:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:09] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:09] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:18] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:19] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:24] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:25] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:35] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 19:55:55] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:15] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:17] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:34] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:34] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:44] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:03:44] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:04:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:19] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:20] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:22] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:22] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:31] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:32] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:37] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:38] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:38] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:48] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:10:57] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:11:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:21:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:21:57] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:21:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:12] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:18] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:18] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:23] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:23] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:23] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:23] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:33] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:33] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:22:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:30:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:30:41] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:30:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:30:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:30:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:30:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:30:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:30:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:00] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:00] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:07] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:10] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:10] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:10] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:10] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:10] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:31:30] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:41] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:50] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:56] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:36:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:37:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:37:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:37:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:37:06] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:37:06] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:37:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:00] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:01] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:02] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:13] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:21] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:21] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:21] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:21] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:24] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:32] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:32] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:40:41] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:15] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:15] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:16] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:35] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:35] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:37] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:37] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:47] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:50:55] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:25] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:28] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:28] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:38] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:43] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:49] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:49] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:59] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:53:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:54:03] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:25] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:26] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:27] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:28] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:29] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:37] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:39] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:53] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:58:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 20:59:13] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:00:09] "POST /announce_found HTTP/1.1" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:03:46] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:03:47] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:03:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:03:48] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:03:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:03:49] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:03:58] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:03:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:04:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:04:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:04:08] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:04:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:04:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:04:14] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:04:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:04:34] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug: * Running on http://127.0.0.1:5002/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:40] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:server listening on 127.0.0.1:8002
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:41] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:42] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:43] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:52] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:53] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:59] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:07:59] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:04] "POST /response HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:04] "POST /proxy HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:04] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection failed (400 Bad Request)
+INFO:websockets.server:connection closed
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:14] "POST /announce HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:14] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:19] "GET /nodeDetails HTTP/1.1" 200 -
+INFO:websockets.server:connection open
+INFO:werkzeug:127.0.0.1 - - [22/May/2023 21:08:34] "GET /nodeDetails HTTP/1.1" 200 -
